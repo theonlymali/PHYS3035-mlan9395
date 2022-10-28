@@ -1,1 +1,1 @@
-# PHYS3035-mlan9395
+The main function of the code is described briefly in the assignment. Note: MATLAB 2022a was used.
